@@ -1,4 +1,4 @@
-# 2D-Game using HTML, CSS and Javascript.
+# Deep_Sea_Defender_Game
 
 ## Description
 This is an engaging and dynamic 2D side-scrolling shooter game developed using HTML5 Canvas and JavaScript. In this game, the player controls a character that moves vertically and shoots projectiles to defeat various enemies. The game's objective is to survive and achieve the highest score possible within a set time limit.
