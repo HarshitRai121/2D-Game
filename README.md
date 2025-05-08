@@ -36,12 +36,23 @@ The game features several types of enemies, each with unique characteristics and
 - **Ammo**: The player has a limited amount of ammo that replenishes over time.
 - **Collision**: If an enemy collides with the player, the player loses points and the enemy is destroyed.
 
+## Game Scenes
+![scene1](assets/scene1.png)
+
+![scene2](assets/scene2.png)
+
+![scene3](assets/scene3.png)
+
 ## How to Play
 1. To run the game locally, simply clone the repository, navigate to the project directory, and open `index.html` in your web browser.
 2. Use the `Arrow Up` and `Arrow Down` keys to move the player.
 3. Press the `Space` key to shoot projectiles at enemies.
 4. Avoid enemy collisions and defeat as many enemies as possible to achieve a high score.
 5. Collect power-ups to gain advantages and survive longer.
+
+
+## 🎮 [Play Now](https://deepseadefendergame-harshit-rais-projects.vercel.app/)
+Click the link above to play the Fish Shooter Game online!
 
 ---
 
